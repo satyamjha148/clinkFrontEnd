@@ -1,0 +1,13 @@
+{
+  "helloWorld": "Hello world",
+  "cari" : "Cari Lokasi kubur",
+  "searchHint" : "Ketik Produki",
+  "address" : "Plot 666, Tempat Pemakaman Umum Desa Purwarahayu",
+  "cariDescription" : "Cari Lokasi kubur keluarga saudara dan kenalan anda dengan satu ketikan",
+  "@cari": {
+    "description": "Hello world text"
+  },
+  "@helloWorld": {
+    "description": "Hello world text"
+  }
+}
